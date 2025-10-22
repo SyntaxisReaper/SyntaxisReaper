@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar Mishra</h1>
-<h3 align="center">A passionate Full-stack developer and AI/ML researcher from India.</h3>
+<h3 align="center">A passionate first-year Full-stack developer and AI/ML researcher who is currently learning on diffrent programming languages. I have not mastered any of the languages but I practice and refine my skills with these programming languages which are mentioned below.</h3>
 
 - 🔭 I’m currently working on [Voice Cloning Platform](https://vcaas.vercel.app/)
 
