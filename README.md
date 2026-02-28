@@ -2,7 +2,7 @@
 <h3 align="center">A passionate first-year Full-stack developer and AI/ML researcher who is currently learning on diffrent programming languages. I have not mastered any of the languages but I practice and refine my skills with these programming languages which are mentioned below.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://creator-azure.vercel.app/](https://creator-azure.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://syntaxis.site/](https://syntaxis.site/)
 
 - 📫 How to reach me **syntaxisreaper@gmail.com**
 
